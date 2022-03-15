@@ -23,7 +23,7 @@ Reveal.js has its own [markdown processor](https://github.com/hakimel/reveal.js#
 
 ---
 
-<!-- .slide: data-background="#FF4081" -->
+<!-- .slide: data-background="#2C6730" -->
 
 Reveal.js markdown uses HTML comments to change slide properties, like background color.
 

@@ -39,7 +39,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .line {
   content: '';
   position: fixed;
-  background: #FF4081;
+  background: #2C6730;
   z-index: 105; }
   .line.top {
     left: 0;
@@ -279,14 +279,14 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #FF4081;
+  color: #2C6730;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #ff8db3;
+  color: #4f7942;
   text-shadow: none;
   border: none; }
 
@@ -314,21 +314,21 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #FF4081;
+  border-color: #2C6730;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #FF4081; }
+  color: #2C6730; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #FF4081; }
+  color: #2C6730; }
 
 .reveal .progress span {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
@@ -337,4 +337,4 @@ body {
 
 .reveal .progress {
   z-index: 1000;
-  color: #FF80A1; }
+  color: #53b45ab9; }

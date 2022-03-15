@@ -44,7 +44,7 @@ Add the shortcode above the slide's content, below the `---`.
 
 ---
 
-{{< slide background-color="#FF4081" >}}
+{{< slide background-color="\#2C6730" >}}
 
 ## Custom slide 2
 
@@ -53,7 +53,7 @@ Add the shortcode above the slide's content, below the `---`.
 ```markdown
 ---
 
-{{</* slide background-color="#FF4081" */>}}
+{{</* slide background-color="#2C6730" */>}}
 
 ## Custom slide 2
 
