@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "reveal-hugo"
+RelativeURLs = true
+CanonifyURLs = true
+
+[markup]
+defaultMarkdownHandler = "blackfriday"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
