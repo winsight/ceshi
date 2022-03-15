@@ -1,14 +1,22 @@
 +++
-title = "My presentation"
+title = "reveal-hugo"
+description = "A Hugo theme for creating Reveal.js presentations"
 outputs = ["Reveal"]
+[reveal_hugo]
+custom_theme = "reveal-hugo/themes/robot-lung.css"
+margin = 0.2
+highlight_theme = "color-brewer"
+transition = "slide"
+transition_speed = "fast"
+[reveal_hugo.templates.hotpink]
+class = "hotpink"
+background = "#FF4081"
 +++
 
-# Hello world!
+# 📽️
 
-This is my first slide.
+# reveal-hugo
 
----
+A Hugo theme for creating Reveal.js presentations.
 
-# Hello Mars!
-
-This is my second slide.
+~ made by [@dzello](https://dzello.com/) ~
