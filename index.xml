@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sswin</title>
+    <link>https://hugo.sswin.site/</link>
+    <description>Recent content on sswin</description>
+    <image>
+      <url>https://hugo.sswin.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hugo.sswin.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Mar 2022 22:27:07 +0800</lastBuildDate><atom:link href="https://hugo.sswin.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>https://hugo.sswin.site/posts/post2/</link>
+      <pubDate>Sun, 13 Mar 2022 22:27:07 +0800</pubDate>
+      
+      <guid>https://hugo.sswin.site/posts/post2/</guid>
+      <description>壹 Post2 </description>
+    </item>
+    
+    <item>
+      <title>发展党员工作手册</title>
+      <link>https://hugo.sswin.site/blog/%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B1%95%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C2018%E5%B9%B411%E6%9C%88/</link>
+      <pubDate>Mon, 17 May 2021 21:55:09 +0000</pubDate>
+      
+      <guid>https://hugo.sswin.site/blog/%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B1%95%E5%85%9A%E5%91%98%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C2018%E5%B9%B411%E6%9C%88/</guid>
+      <description>💡或许PC端体验更好（手机端可能只会显示第一页） {% pdf 北京理工大学发展党员工作手册2018年11月.pdf %}
+File</description>
+    </item>
+    
+    <item>
+      <title>Blog1</title>
+      <link>https://hugo.sswin.site/blog/blog1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://hugo.sswin.site/blog/blog1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Blog2</title>
+      <link>https://hugo.sswin.site/blog/blog2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://hugo.sswin.site/blog/blog2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>https://hugo.sswin.site/posts/post1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://hugo.sswin.site/posts/post1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hugo.sswin.site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.sswin.site/about/</guid>
+      <description>about</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
