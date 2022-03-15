@@ -1,14 +1,15 @@
 +++
-title = "My presentation"
+title = "ted"
 outputs = ["Reveal"]
+
 +++
 
-# Hello world!
+# Ted1
 
 This is my first slide.
 
 ---
 
-# Hello Mars!
+# Ted2
 
 This is my second slide.
