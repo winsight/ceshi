@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on sswin&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on sswin&#39;s Blog</description>
+    <title>图片 on sswin&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E5%9B%BE%E7%89%87/</link>
+    <description>Recent content in 图片 on sswin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;&lt;br /&gt;背景使用了 &lt;a href=&#34;https://www.pexels.com/zh-cn/&#34; target=&#34;_blank&#34;&gt;Pexels&lt;/a&gt; 上 &lt;a href=&#34;https://www.pexels.com/zh-cn/@minan1398&#34; target=&#34;_blank&#34;&gt;Min An&lt;/a&gt; 拍摄的&lt;a href=&#34;https://www.pexels.com/zh-cn/photo/1454794/&#34; target=&#34;_blank&#34;&gt;图片&lt;/a&gt;。</copyright>
-    <lastBuildDate>Wed, 30 Mar 2022 00:54:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Mar 2022 00:54:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%9B%BE%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>图集</title>
-      <link>http://localhost:1313/categories/%E5%9B%BE%E9%9B%86/</link>
+      <title>「良乡」</title>
+      <link>http://localhost:1313/posts/%E8%89%AF%E4%B9%A1/</link>
       <pubDate>Wed, 30 Mar 2022 00:54:29 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%9B%BE%E9%9B%86/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/%E8%89%AF%E4%B9%A1/</guid>
+      <description>&lt;p&gt;周末摆烂，来良乡逛逛。&lt;/p&gt;</description>
     </item>
     
   </channel>
