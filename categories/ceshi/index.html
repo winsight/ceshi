@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>所有分类 | sswin&#39;s Blog</title>
+    <title>ceshi | sswin&#39;s Blog</title>
 
     
 <link href="/me/favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -19,13 +19,13 @@
 
 <meta name="generator" content="Hugo 0.91.2" />
 
-<link rel="canonical" href="http://test.sswin.site/categories/" />
+<link rel="canonical" href="http://test.sswin.site/categories/ceshi/" />
 
 
-<meta property="og:title" content="Categories" />
+<meta property="og:title" content="ceshi" />
 <meta property="og:description" content="sswin 的生活记录~" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://test.sswin.site/categories/" /><meta property="og:image" content="http://test.sswin.site/me/background.jpg"/>
+<meta property="og:url" content="http://test.sswin.site/categories/ceshi/" /><meta property="og:image" content="http://test.sswin.site/me/background.jpg"/>
 
 
 
@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="http://test.sswin.site/me/background.jpg"/>
 
-<meta name="twitter:title" content="Categories"/>
+<meta name="twitter:title" content="ceshi"/>
 <meta name="twitter:description" content="sswin 的生活记录~"/>
 
 
@@ -190,33 +190,48 @@
 </header>
 
 
-<div class="ui container">
-  <article class="ui segment dream-categories-section">
-    <h2 class="ui header">所有分类<span class="ui grey sub header">2 分类</span>
-    </h2>
+<div class="ui relaxed grid dream-grid">
+  
+  
+  <div class="sixteen wide mobile eight wide tablet eight wide computer four wide large screen four wide widescreen column dream-column">
+    <article class="ui attached segment card dream-card">
+  
+  <a class="image" href="http://test.sswin.site/posts/49bd6f19/">
+    
+    <img src="/img/ceshi.jpg" alt="ceshi" />
+    
+  </a>
+  
 
-    
-    <h3 class="ui header">
-      <a href="/categories/ceshi/">ceshi</a>&nbsp;1篇文章</h3>
-    <ul>
-      
-      <li>
-        <a href="/posts/49bd6f19/">ceshi</a>
-      </li>
-      
-    </ul>
-    
-    <h3 class="ui header">
-      <a href="/categories/%E5%9B%BE%E9%9B%86/">图集</a>&nbsp;1篇文章</h3>
-    <ul>
-      
-      <li>
-        <a href="/posts/%E8%89%AF%E4%B9%A1/">「良乡」</a>
-      </li>
-      
-    </ul>
-    
-  </article>
+  
+  <div class="content">
+  
+    <h2 class="ui medium header">
+      <a href="/posts/49bd6f19/">ceshi</a>
+    </h2>
+    <div class="meta">
+      <p class="date">
+        
+          <span data-format="luxon">2022-03-30T15:40:52&#43;08:00</span>
+        
+      </p>
+    </div>
+    <div class="description">
+      <p>Cut out summary from your post content here.</p>
+    </div>
+  </div>
+
+  <div class="extra content">
+    <div class="author"><img class="ui avatar image" src="/me/gl.jpg" alt="avatar" /><a href="https://hugo.sswin.site" target="_blank">Sswin</a></div>
+    <div class="reading-time">
+      <i class="clock icon"></i>1 分钟阅读</div>
+  </div>
+</article>
+
+  </div>
+  
+
+  
 </div>
 
 
@@ -463,7 +478,28 @@
 <script src="/js/main.js"></script>
 <script src="/js/theme.js"></script>
 
-     
+    
+
+
+<script src="https://cdn.jsdelivr.net/npm/luxon@1.26.0" integrity="sha256-4sbTzmCCW9LGrIh5OsN8V5Pfdad1F1MwhLAOyXKnsE0=" crossorigin="anonymous"></script>
+<script>
+  format()
+
+  function format() {
+    $('span[data-format="luxon"]').each(function () {
+      var date = $(this).text()
+
+      $(this).text(luxon.DateTime.fromISO(date, { locale: "zh" }).toFormat("yyyy年MM月dd日"))
+    })
+  }
+</script>
+
+
+
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script src="/js/grid.js"></script>
+
 
     
 
